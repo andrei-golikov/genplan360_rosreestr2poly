@@ -1,0 +1,8 @@
+# requirements.txt
+# Базовые зависимости для твоего проекта можно добавить ниже при необходимости
+# Пример: matplotlib, shapely, pyproj, и т.д.
+
+# Зафиксированный форк rosreestr2coord на конкретном коммите (SHA)
+git+https://github.com/andrei-golikov/rosreestr2coord.git@e60bc9eee82bcba4f103a6896779799fccb3d10c#egg=rosreestr2coord
+matplotlib
+pyproj
